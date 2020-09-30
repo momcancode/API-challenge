@@ -38,6 +38,7 @@ Use jupyter-gmaps and the Google Places API for this part.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**
 
-### Copyright
+---
+Contact:
 
-Trilogy Education Services © 2019. All Rights Reserved.
+Email: thao.ph.ha@gmail.com
